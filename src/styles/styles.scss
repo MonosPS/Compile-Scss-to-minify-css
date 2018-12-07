@@ -1,0 +1,10 @@
+$h1color: green;
+
+
+h1,h2,h3,h5,h4{
+  div{
+    color:red;
+  }
+  color:$h1color;
+  border: 10px;
+}
